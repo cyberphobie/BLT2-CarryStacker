@@ -40,6 +40,7 @@ Thanks to TdlQ for the awesome code :)
 http://download.paydaymods.com/download/latest/BLTCS_Reloaded
 
 # Changelog:  
+- Added compatibility for BLT2
 - **R6**: Fix for not being able to properly play the game online (WHO WOULD WANT TO DO SUCH A THING ANYWAY, AM I RIGHT GUYS?... guys...?)  
 
 Also, revamped the config-system a bit. Old config is being deleted, so make sure to change your stuff again :)  
